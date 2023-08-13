@@ -30,3 +30,6 @@ Host corner2b.sr.lan
 Host staging.sr.lan
     HostName staging.sr.lan
 
+Host cube.sr.lan
+    HostName cube.sr.lan
+
