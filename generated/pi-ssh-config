@@ -33,3 +33,6 @@ Host staging.sr.lan
 Host cube.sr.lan
     HostName cube.sr.lan
 
+Host cube2.sr.lan
+    HostName cube2.sr.lan
+
