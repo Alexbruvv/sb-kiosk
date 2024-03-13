@@ -1,5 +1,10 @@
 device,hostname,url,autossh_port,ntp_server
 default,kiosk,"file:///home/pi/mac.html",0,venue
-12:34:56:78:90:ab,corner1,"venue/arena.html?main,0",1234,venue
-12:34:56:78:90:ac,outside,"livestream",1235,public
-b8:27:eb:c1:bb:42,test-kiosk,"file:///home/pi/mac.html",0,venue
+e4:5f:01:90:e3:75,pi-Y1X1Y,"file:///home/pi/mac.html",0,public
+e4:5f:01:90:e3:7d,pi-Y1P16,"file:///home/pi/mac.html",0,public
+e4:5f:01:90:df:a9,pi-Y1V2Y,"file:///home/pi/mac.html",0,public
+e4:5f:01:90:ed:ff,pi-Y1W10,"file:///home/pi/mac.html",0,public
+e4:5f:01:90:ed:4a,pi-Y1R30,"file:///home/pi/mac.html",0,public
+e4:5f:01:90:ed:ce,pi-Y1N25,"file:///home/pi/mac.html",0,public
+e4:5f:01:90:ed:64,pi-Y1Q4Y,"file:///home/pi/mac.html",0,public
+e4:5f:01:90:ee:6a,pi-Y1Q15,"file:///home/pi/mac.html",0,public
