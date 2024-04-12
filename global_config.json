@@ -1,5 +1,5 @@
 {
-    "compbox_ip": "192.168.88.2",
+    "compbox_ip": "10.169.2.85",
     "autossh_host": "srcomp.studentrobotics.org",
     "venue_compbox": "compbox.srobo",
     "public_compbox": "srcomp.studentrobotics.org",
