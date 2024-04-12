@@ -17,7 +17,7 @@ GENERATED_CONFIG_FILE = REPO_ROOT / "generated/pi-ssh-config"
 GENERATED_NAMES_FILE = REPO_ROOT / "generated/pi-names"
 
 REMOTE_SSH_USER = "pi"
-DOMAIN = "sr.lan"
+DOMAIN = "lan"
 
 
 def main():
