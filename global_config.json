@@ -1,7 +1,8 @@
 {
-    "compbox_ip": "10.169.2.85",
-    "autossh_host": "srcomp.studentrobotics.org",
-    "venue_compbox": "compbox.srobo",
-    "public_compbox": "srcomp.studentrobotics.org",
+    "compbox_ip": "sro-compbox-prd.vm.cslib.org.uk",
+    "autossh_host": "sro-compbox-prd.vm.cslib.org.uk",
+    "venue_compbox": "sro-compbox-prd.vm.cslib.org.uk",
+    "public_compbox": "sro-compbox-prd.vm.cslib.org.uk",
     "livestream_url": "M3stcLPbHOU"
 }
+
