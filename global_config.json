@@ -1,8 +1,8 @@
 {
-    "compbox_ip": "sro-compbox-prd.vm.cslib.org.uk",
-    "autossh_host": "sro-compbox-prd.vm.cslib.org.uk",
-    "venue_compbox": "sro-compbox-prd.vm.cslib.org.uk",
-    "public_compbox": "sro-compbox-prd.vm.cslib.org.uk",
+    "compbox_ip": "10.78.191.168",
+    "autossh_host": "10.78.191.168",
+    "venue_compbox": "10.78.191.168",
+    "public_compbox": "10.78.191.168",
     "livestream_url": "M3stcLPbHOU"
 }
 
