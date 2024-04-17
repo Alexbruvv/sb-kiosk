@@ -1,2 +1,3 @@
 device,hostname,url,autossh_port,ntp_server
 default,kiosk,"file:///home/pi/mac.html",0,venue
+b8:27:eb:65:17:d1,corner1,"venue/arena.html?main,1",0
