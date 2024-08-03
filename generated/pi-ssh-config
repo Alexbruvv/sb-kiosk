@@ -15,20 +15,24 @@ Host autossh_host
     HostName localhost
     User pi
 
-Host corner1.sr.lan
-    HostName corner1.sr.lan
+Host corner01.sr.lan
+    HostName corner01.sr.lan
 
-Host corner1.sr.lan.remote
-    HostName corner1.sr.lan
-    ProxyJump autossh_host
+Host corner02.sr.lan
+    HostName corner02.sr.lan
 
-Host outside.sr.lan
-    HostName outside.sr.lan
+Host corner11.sr.lan
+    HostName corner11.sr.lan
 
-Host outside.sr.lan.remote
-    HostName outside.sr.lan
-    ProxyJump autossh_host
+Host corner12.sr.lan
+    HostName corner12.sr.lan
 
-Host test-kiosk.sr.lan
-    HostName test-kiosk.sr.lan
+Host staging.sr.lan
+    HostName staging.sr.lan
+
+Host outside1.sr.lan
+    HostName outside1.sr.lan
+
+Host outside2.sr.lan
+    HostName outside2.sr.lan
 
