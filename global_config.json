@@ -1,7 +1,7 @@
 {
-    "compbox_ip": "192.168.10.1",
+    "compbox_ip": "10.78.191.168",
     "autossh_host": "localhost",
-    "venue_compbox": "compbox.srobo",
-    "public_compbox": "compbox.srobo",
+    "venue_compbox": "comp.roboticsoutreach.org",
+    "public_compbox": "comp.roboticsoutreach.org",
     "livestream_url": "M3stcLPbHOU"
 }
